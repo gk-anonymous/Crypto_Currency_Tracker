@@ -1,4 +1,5 @@
-Sure, here's a short description for your Crypto Tracker project made with pure JavaScript:
+![image](https://github.com/gk-anonymous/Crypto_Currency_Tracker/assets/100946485/07ed15e1-7487-4d59-8423-090c238adf18)
+
 
 ---
 
